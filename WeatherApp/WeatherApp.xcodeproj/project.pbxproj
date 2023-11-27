@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E0A6D1E2B14F75600A00539 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0A6D1D2B14F75600A00539 /* WeatherButton.swift */; };
 		5E76D5F62B111853008FD513 /* WeatherAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E76D5F52B111853008FD513 /* WeatherAppApp.swift */; };
 		5E76D5F82B111853008FD513 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E76D5F72B111853008FD513 /* ContentView.swift */; };
 		5E76D5FA2B111855008FD513 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E76D5F92B111855008FD513 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E0A6D1D2B14F75600A00539 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		5E76D5F22B111853008FD513 /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E76D5F52B111853008FD513 /* WeatherAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppApp.swift; sourceTree = "<group>"; };
 		5E76D5F72B111853008FD513 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				5E76D5F72B111853008FD513 /* ContentView.swift */,
 				5E76D5F92B111855008FD513 /* Assets.xcassets */,
 				5E76D5FB2B111855008FD513 /* Preview Content */,
+				5E0A6D1D2B14F75600A00539 /* WeatherButton.swift */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				5E76D5F82B111853008FD513 /* ContentView.swift in Sources */,
 				5E76D5F62B111853008FD513 /* WeatherAppApp.swift in Sources */,
+				5E0A6D1E2B14F75600A00539 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
